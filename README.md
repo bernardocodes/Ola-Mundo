@@ -9,5 +9,5 @@
 
  Para que a atualização remota seja visível no git, é preciso fazer um pull (Fetch --> Pull) usando o GitHub Desktop quando voltar a trabalhar nesse ambiente.
 
- 
+ obs: Para verificar se uma pasta está versionada: Selecione a pasta e procure a opção exibir --> itens ocultos. Se estiver, deve aparecer uma pasta chamada ".git"
 
