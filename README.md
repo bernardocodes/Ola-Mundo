@@ -9,4 +9,3 @@
 
  Para que a atualização remota seja visível no git, é preciso fazer um pull (Fetch --> Pull) usando o GitHub Desktop quando voltar a trabalhar nesse ambiente.
 
-xxxxx
